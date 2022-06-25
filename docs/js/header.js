@@ -11,7 +11,7 @@ class CustomHeader extends HTMLElement {
                     <nav class="hidden lg:grid" id="nav_list">
                         <ul class="absolute lg:relative right-0 w-full rounded-b-lg lg:grid 
                             lg:grid-flow-col lg:auto-cols-max lg:gap-6 py-2 text-center 
-                            text-white lg: text-xl bg-orange lg:bg-transparent">
+                            text-white lg: text-xl bg-gray lg:bg-transparent">
                             <li >
                                 <a href="index.html">Home</a> 
                             </li>

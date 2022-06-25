@@ -5,7 +5,7 @@ class CustomHeader extends HTMLElement {
                 <div class="container mx-auto relative grid grid-flow-col auto-cols-max place-content-between p-6">
                     <div class="grid place-content-start content-center"> 
                         <a href="index.html" class="">
-                            <img src="images/automeyt-logo-black-bg.webp" class="h-10" alt="Automeyt Logo">
+                            <img src="images/tailwindcss-logo.png" class="h-10" alt="Automeyt Logo">
                         </a>
                     </div>
                     <nav class="hidden lg:grid" id="nav_list">
@@ -16,19 +16,10 @@ class CustomHeader extends HTMLElement {
                                 <a href="index.html">Home</a> 
                             </li>
                             <li>
-                                <a href="services.html">Services</a> 
+                                <a href="page-2.html">Page 2</a> 
                             </li>
                             <li>
-                                <a href="blog.html">Blog</a> 
-                            </li>
-                            <li>
-                                <a href="pricing.html">Pricing</a> 
-                            </li>
-                            <li>
-                                <a href="portfolio.html">Portfolio</a> 
-                            </li>
-                            <li>
-                                <a href="reach-out.html">Reach Out</a> 
+                                <a href="page-3.html">Page 3</a> 
                             </li>
                         </ul>
                     </nav>
@@ -45,4 +36,3 @@ class CustomHeader extends HTMLElement {
 }
 
 customElements.define('custom-header', CustomHeader);
-

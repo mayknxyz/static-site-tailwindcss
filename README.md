@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/mayknxyz/static-site-tailwindcss/blob/main/README.md">
-    <img src="./docs/images/virtualahan-logo-2.png" alt="Logo" width="125" height="125">
+    <img src="./docs/images/github-logo.png" alt="Logo" width="125" height="125">
+    <img src="./docs/images/tailwindcss-logo.png" alt="Logo" width="125" height="125">
   </a>
 </div>
 
@@ -41,6 +42,11 @@ The goal is to make a starter template in developing a website utilizing Tailwin
 <details closed>
 <summary><strong style="font-size: 18px; color: blue;">Getting Started</strong></summary>
 <hr>
+
+1. Fork this repository.
+2. Rename the branch based on your preference.
+3. Go to Settings > Pages > Select "main" branch > Select "/docs" > Save.
+4. A link will be provided above once the site is published.
 
 
 <hr>
